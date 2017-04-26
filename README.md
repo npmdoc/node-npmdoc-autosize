@@ -1,6 +1,6 @@
 # npmdoc-autosize
 
-#### api documentation for  [autosize (v3.0.20)](http://www.jacklmoore.com/autosize)  [![npm package](https://img.shields.io/npm/v/npmdoc-autosize.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-autosize) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-autosize.svg)](https://travis-ci.org/npmdoc/node-npmdoc-autosize)
+#### basic api documentation for  [autosize (v3.0.20)](http://www.jacklmoore.com/autosize)  [![npm package](https://img.shields.io/npm/v/npmdoc-autosize.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-autosize) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-autosize.svg)](https://travis-ci.org/npmdoc/node-npmdoc-autosize)
 
 #### Autosize is a small, stand-alone script to automatically adjust textarea height to fit text.
 
@@ -81,7 +81,8 @@
     "scripts": {
         "build": "node build"
     },
-    "version": "3.0.20"
+    "version": "3.0.20",
+    "bin": {}
 }
 ```
 
